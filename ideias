@@ -1,0 +1,24 @@
+BOT PARA GUITARFLASH
+- pyautogui (Para pressionar a tecla)
+- Verificar COR (OpenCV ou ImageGrab)
+
+1027x724 (Tela do jogo, no meu monitor, só testei nele)
+-> 1920x1080
+
+cor = pixel do obj
+
+if cor == rgb:
+   var.presskey('tecla')
+
+
+A- Verde(10, 145, 7)
+S- Vermelho(253, 1, 0)
+
+J- Amarelo(246, 248, 0)
+K- Azul(4, 194, 242)
+L-Laranja(211, 104, 32)
+
+POR EM PRÁTICA
+
+GREEN - 761, 831
+RED - 863, 831
